@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "360099169259",
+    "project_id": "distint-90165",
+    "storage_bucket": "distint-90165.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360099169259:android:0f0ea080276a28aca3cfae",
+        "android_client_info": {
+          "package_name": "com.example.dintist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtEEQSuUKL_Nxwb5XI8UyPWlqTlIbaJq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
